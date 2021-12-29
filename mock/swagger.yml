@@ -88,8 +88,6 @@ paths:
           description: OK
     
 
-
-
   /players:
     get:
       tags:
